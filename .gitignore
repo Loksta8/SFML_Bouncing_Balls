@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Other Personal Build Files
+BUILD
+build
+out
+.cache
+.idea
+.vs
+.vscode
